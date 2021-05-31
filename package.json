@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "create-asset": "earthengine create folder projects/google-earth-1/assets"
+    "create-asset": "earthengine create folder projects/google-earth-1/assets",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
